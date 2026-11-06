@@ -1,0 +1,25 @@
+
+body {
+    background-color: #f4f4f9;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+}
+
+.tituloPrincipal {
+    text-align: center;
+    color: darkblue;
+}
+
+#btnAdicionar {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
